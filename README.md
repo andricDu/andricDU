@@ -1,5 +1,5 @@
-![Dušan's GitHub stats](https://github-readme-stats.vercel.app/api?username=andricDu&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andricDu&layout=compact)](https://github.com/andricDu/github-readme-stats)
+![Dušan's GitHub stats](https://github-readme-stats.vercel.app/api?username=andricDu&count_private=true&theme=monokai)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andricDu&layout=compact&theme=monokai)](https://github.com/andricDu/github-readme-stats)
 
 
 <!--
