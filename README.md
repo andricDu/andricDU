@@ -1,3 +1,21 @@
+<div align="center">
+	Hi! I love all things tech. I've worked as a Dev, Architect, and Manager. I've even crawled around a data centre plugging in cables. I like to be where there are problems to fix and things to make. 
+</div>
+
+<p align="center">
+    <img src="assets/elastic.jpg" alt="AST scribbles" />
+</p>
+
+
+---
+
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,java,cs,python,rust,go,js" />
+</div>
+
+
+
 
 <!--
 **andricDu/andricDU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
