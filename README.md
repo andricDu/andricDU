@@ -11,7 +11,7 @@
 
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,java,cs,python,rust,go,js" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,java,cs,python,rust,go,js,linux" />
 </div>
 
 
@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...t
 -->
