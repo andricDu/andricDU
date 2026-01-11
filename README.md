@@ -1,5 +1,5 @@
 <div style="max-width: 200px; margin: auto; padding: 10px;">
-	<h4>Hi! I love all things tech. I've worked as a Dev, Architect, and Manager. I've even crawled around a data centre plugging in cables. I like to be where there are problems to fix and things to make. </h4>
+	<h4>Hi! I love all things tech. I've worked as a Dev, Architect, and Manager. I've even crawled around a data centre plugging in cables. I like to be where there are problems to solve and things to make. </h4>
 </div>
 
 <p align="center">
