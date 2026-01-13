@@ -14,7 +14,12 @@
     <img src="https://skillicons.dev/icons?i=kubernetes,java,cs,python,rust,go,js,linux" />
 </div>
 
+---
 
+
+<div align="center">
+    <h3><a href="https://dusan.andric.ca/">dusan.andric.ca</a></h3>
+</div>
 
 
 <!--
